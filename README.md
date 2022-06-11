@@ -1,2 +1,2 @@
 # BlogPosts
- these scripts are discussed on my blog!
+Here are my travel blog posts
